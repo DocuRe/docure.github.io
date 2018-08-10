@@ -1,0 +1,71 @@
+[
+{
+	"uri": "/getting-started/installation/",
+	"title": "Installation",
+	"tags": [],
+	"description": "",
+	"content": "Installation is as simple as one command. "
+},
+{
+	"uri": "/getting-started/",
+	"title": "Getting started",
+	"tags": [],
+	"description": "",
+	"content": " Requirements DocuRe is a cloude-native application tested on GKE.\n Installation Installation is as simple as one command.   Contribute Join the team and lets create an awesome app   "
+},
+{
+	"uri": "/slide/",
+	"title": "Presentations",
+	"tags": [],
+	"description": "",
+	"content": " Requirements DocuRe is a cloude-native application tested on GKE.\n Install Jenkins-x on GKE  Slide 1 Slide 1.1 Turn off alarm Get out of bed Slide 1.2 Eat eggs Drink coffee Slide 2 Slide 2.1 Eat spaghetti Drink wine Slide 2.2 Get in bed Count sheep   "
+},
+{
+	"uri": "/getting-started/contribute/",
+	"title": "Contribute",
+	"tags": [],
+	"description": "",
+	"content": "Join the team and lets create an awesome app "
+},
+{
+	"uri": "/_footer/",
+	"title": "_Footer",
+	"tags": [],
+	"description": "",
+	"content": "What goes in a footer \n"
+},
+{
+	"uri": "/",
+	"title": "Home Page",
+	"tags": [],
+	"description": "",
+	"content": " Welcome to Document Research! Document Research (DocuRe) is a web n-tier application that allows simple search as well as complex machine learning on small or large amounts of text.\n   first second third     Danger  Warning  Info     parameters    Parameter Default Description     title \u0026ldquo;Attachments\u0026rdquo; List\u0026rsquo;s title   pattern \u0026rdquo;.*\u0026rdquo; A regular expressions, used to filter the attachments by file name. The pattern parameter value must be regular expressions.\nFor example:\n To match a file suffix of \u0026lsquo;jpg\u0026rsquo;, use .*jpg (not *.jpg). To match file names ending in \u0026lsquo;jpg\u0026rsquo; or \u0026lsquo;png\u0026rsquo;, use .*(jpg|png)       "
+},
+{
+	"uri": "/credits/",
+	"title": "These are my Credits",
+	"tags": [],
+	"description": "",
+	"content": " Hiiiii, Its meeeeeee Come see meeeee "
+},
+{
+	"uri": "/categories/",
+	"title": "Categories",
+	"tags": [],
+	"description": "",
+	"content": ""
+},
+{
+	"uri": "/slide/firstslide/",
+	"title": "Install Jenkins-x on GKE",
+	"tags": [],
+	"description": "",
+	"content": " Slide 1 Slide 1.1  Turn off alarm Get out of bed  Slide 1.2  Eat eggs Drink coffee  Slide 2 Slide 2.1  Eat spaghetti Drink wine  Slide 2.2  Get in bed Count sheep  "
+},
+{
+	"uri": "/tags/",
+	"title": "Tags",
+	"tags": [],
+	"description": "",
+	"content": ""
+}]

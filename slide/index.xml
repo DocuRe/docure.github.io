@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentations on Document Research</title>
+    <link>/slide/</link>
+    <description>Recent content in Presentations on Document Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/slide/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Install Jenkins-x on GKE</title>
+      <link>/slide/firstslide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/firstslide/</guid>
+      <description> Slide 1 Slide 1.1  Turn off alarm Get out of bed  Slide 1.2  Eat eggs Drink coffee  Slide 2 Slide 2.1  Eat spaghetti Drink wine  Slide 2.2  Get in bed Count sheep  </description>
+    </item>
+    
+  </channel>
+</rss>

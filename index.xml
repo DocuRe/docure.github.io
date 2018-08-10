@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home Page on Document Research</title>
+    <link>/</link>
+    <description>Recent content in Home Page on Document Research</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 30 Jul 2018 21:24:35 -0500</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Installation</title>
+      <link>/getting-started/installation/</link>
+      <pubDate>Tue, 31 Jul 2018 21:37:19 -0500</pubDate>
+      
+      <guid>/getting-started/installation/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;alert 
+alert-info&#34;
+ 
+role=&#34;alert&#34;&gt;Installation is as simple as one command.&lt;/div&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Contribute</title>
+      <link>/getting-started/contribute/</link>
+      <pubDate>Tue, 31 Jul 2018 21:37:37 -0500</pubDate>
+      
+      <guid>/getting-started/contribute/</guid>
+      <description>&lt;p&gt;&lt;div class=&#34;alert 
+alert-info&#34;
+ 
+role=&#34;alert&#34;&gt;Join the team and lets create an awesome app&lt;/div&gt;
+
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>_Footer</title>
+      <link>/_footer/</link>
+      <pubDate>Tue, 31 Jul 2018 20:54:43 -0500</pubDate>
+      
+      <guid>/_footer/</guid>
+      <description>What goes in a footer</description>
+    </item>
+    
+    <item>
+      <title>These are my Credits</title>
+      <link>/credits/</link>
+      <pubDate>Mon, 30 Jul 2018 21:08:42 -0500</pubDate>
+      
+      <guid>/credits/</guid>
+      <description> Hiiiii, Its meeeeeee Come see meeeee </description>
+    </item>
+    
+    <item>
+      <title>Install Jenkins-x on GKE</title>
+      <link>/slide/firstslide/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/slide/firstslide/</guid>
+      <description> Slide 1 Slide 1.1  Turn off alarm Get out of bed  Slide 1.2  Eat eggs Drink coffee  Slide 2 Slide 2.1  Eat spaghetti Drink wine  Slide 2.2  Get in bed Count sheep  </description>
+    </item>
+    
+  </channel>
+</rss>
